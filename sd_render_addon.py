@@ -92,7 +92,7 @@ class RENDER_OT_CustomRender(bpy.types.Operator):
 
 
 class RENDER_PT_CustomPanel(bpy.types.Panel):
-    bl_label = "Custom Render Panel"
+    bl_label = "Render to Stable Diffusion"
     bl_idname = "RENDER_PT_custom_panel"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
