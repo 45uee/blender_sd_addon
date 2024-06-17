@@ -18,3 +18,11 @@ Integration of img2img API endpoint to Blender
     <img src="examples/sd_result.png" alt="Image 2" width="300px" />
   </div>
 </p>
+
+## To do
+
+1. Provide more control on image generation via ControlNet
+
+2. Provide flexible configuration of render
+
+3. Adjustments
