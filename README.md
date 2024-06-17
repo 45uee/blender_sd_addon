@@ -1,4 +1,7 @@
 # Stable Diffustion integration to Blender render
+## Description
+
+Integration of img2img API endpoint to Blender
 
 ## UI
 ![Alt Text](ui.JPG)
